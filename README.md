@@ -4,6 +4,6 @@ This plugin is intended to provide a sane error handling during development of s
 Just clone this repo in the `Core` namespace in your `Local` plugin directory and install the plugin with the shopware plugin manager.  
 
     cd /path/to/your/shopware/installation
-    git clone git@github.com:bcremer/Shopware-Plugin-CrmrDevErrorHandler.git engine/Shopware/Plugins/Local/Core/CrmrDevErrorHandler
+    git clone git@github.com:bcremer/SW-Plugin-CrmrDevErrorHandler engine/Shopware/Plugins/Local/Core/CrmrDevErrorHandler
 
 
